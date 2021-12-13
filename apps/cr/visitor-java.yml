@@ -1,4 +1,4 @@
-apiVersion: com.redhat.operators/v1
+apiVersion: app.operators.redhat.com/v1
 kind: Visitor
 metadata:
   name: visitorsapp-sample
